@@ -83,19 +83,39 @@
 ---
 
 - [ ] Learn Programming Basics (with Strong Programming Language (C++, Java, C))
-    - [ ] Basics
-    - [ ] Testing
-    - [ ] Handling
-    - [ ] OOP (Object Oriented Programming)
-    - [ ] Data Structures
-    - [ ] Algorithms
-    - [ ] DSA (Data Structures and Algorithms)
-    - [ ] Database
-    - [ ] Network
-    - [ ] OOD (Object Oriented Design)
-    - [ ] Design Patterns
-    - [ ] Solid Principles
-    - [ ] Best Practices
+    - [ ] Learning
+        - [ ] Basics
+        - [ ] Testing
+        - [ ] Handling
+        - [ ] OOP (Object Oriented Programming)
+        - [ ] Data Structures
+        - [ ] Algorithms
+        - [ ] DSA (Data Structures and Algorithms)
+        - [ ] Database
+        - [ ] Network
+        - [ ] OOD (Object Oriented Design)
+        - [ ] Design Patterns
+        - [ ] Solid Principles
+        - [ ] Best Practices
+
+    - [ ] Solving
+        - [ ] W3Schools (How to)
+        - [ ] W3Resource (Programming Language Exercise)
+        - [ ] Codeforces (Assiut Sheets)
+        - [ ] CoderHub (Challenges and Competitions)
+        - [ ] Satr (Mini Projects from Programming Language Courses)
+        - [ ] LeetCode (Top Interview 150)
+
+        - Solve 1 Problem Every Day from
+            - Codeforces
+            - LeetCode
+            - HackerRank
+            - CodeWars
+
+        - Check Every Day for
+            - W3Schools (How to)
+            - CoderHub (Challenges and Competitions)
+            - Satr (Mini Projects from Programming Language Courses)
 
 ---
 
