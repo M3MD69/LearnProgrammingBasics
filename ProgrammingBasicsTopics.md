@@ -105,14 +105,15 @@
         - [ ] CoderHub (Challenges and Competitions)
         - [ ] Satr (Mini Projects from Programming Language Courses)
         - [ ] LeetCode (Top Interview 150)
+        - [ ] HackerRank (SQL and Database)
 
-        - Solve 1 Problem Every Day from
-            - Codeforces
-            - LeetCode
-            - HackerRank
-            - CodeWars
+        - Solve 1 Problem Daily
+            - Codeforces (Problems)
+            - LeetCode (Problems)
+            - HackerRank (Programming Language, Mathematics, Regex, Algorithms, Data Structures)
+            - CodeWars (Practice)
 
-        - Check Every Day for
+        - Check Daily for More Problems
             - W3Schools (How to)
             - CoderHub (Challenges and Competitions)
             - Satr (Mini Projects from Programming Language Courses)
