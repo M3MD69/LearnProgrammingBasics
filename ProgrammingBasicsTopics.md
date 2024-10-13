@@ -1,4 +1,38 @@
-# Programming Basics Topics<br/>from [Mohamed Sadawy Thabet](https://t.me/m3md69)
+# Programming Basics Topics
+
+---
+
+## About the Roadmap Owner
+
+- **Name**
+    - Mohamed Sadawy Thabet (M3MD69)
+
+- **Field**
+    - Software Engineer / Native Android Developer
+
+- **Mobile Number**
+    - +201555400034
+
+- **Email**
+    - m3md69@outlook.com
+
+- **Telegram**
+    - **Private**
+        - [M3MD69](https://t.me/m3md69)
+    - **Channels**
+        - [Nullexia For Programming](https://t.me/nullexia)
+        - [Software Consulting](https://t.me/SoftwareConsulting)
+        - [Staunch Brotherhood](https://t.me/StaunchBrotherhoodChannel)
+
+- **Youtube**
+    - [Nullexia For Programming](https://www.youtube.com/@NULLEXIA)
+
+- **GitHub**
+    - [M3MD69](https://github.com/M3MD69)
+
+---
+
+## Roadmap
 
 - [ ] Conversions in Numeric Systems
     - [ ] Conversions from (Binary System) to (Octal System)
