@@ -106,9 +106,11 @@
 
 ---
 
-- [ ] Learn Markdown Language (Markup Language)
+- [ ] Learn HTML Language (Hyper Text Markup Language)
 
-- [ ] Learn HTML Language (Markup Language)
+- [ ] Learn CSS Language (Cascading Style Sheets)
+
+- [ ] Learn Markdown Language (Lightweight Markup Language)
 
 ---
 
