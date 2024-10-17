@@ -1,31 +1,36 @@
 # Programming Basics Topics
 
----
-
-## About the Roadmap Owner
+## About the Roadmap Creator
 
 - **Name**
     - Mohamed Sadawy Thabet (M3MD69)
 
+
 - **Field**
     - Software Engineer / Native Android Developer
+
 
 - **Mobile Number**
     - +201555400034
 
+
 - **Email**
     - m3md69@outlook.com
+
 
 - **Telegram**
     - **Private**
         - [M3MD69](https://t.me/m3md69)
+
     - **Channels**
         - [Nullexia For Programming](https://t.me/nullexia)
         - [Software Consulting](https://t.me/SoftwareConsulting)
         - [Staunch Brotherhood](https://t.me/StaunchBrotherhoodChannel)
 
+
 - **Youtube**
     - [Nullexia For Programming](https://www.youtube.com/@NULLEXIA)
+
 
 - **GitHub**
     - [M3MD69](https://github.com/M3MD69)
@@ -118,7 +123,7 @@
 
 ---
 
-- [ ] Learn Programming Basics (with Strong Programming Language (C++, Java, C))
+- [ ] Learn Programming Basics (with Strong Programming Language (C++, Java, C) for Learn Programming Basics)
     - [ ] Learning
         - [ ] Basics
         - [ ] Testing
@@ -154,12 +159,12 @@
             - CoderHub (Challenges and Competitions)
             - Satr (Mini Projects from Programming Language Courses)
 
+    - [ ] Projects
+
 ---
 
-- [ ] Learn Specialization Programming (for (Web, Native Mobile, Native Desktop, Cross-Platform, .....etc))
+- [ ] Learn Programming Specialization (for (Web, Native Mobile, Native Desktop, Cross-Platform, .....etc))
 
 ---
 
 - [ ] Create Your Own Projects
-
----
