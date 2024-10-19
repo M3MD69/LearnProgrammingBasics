@@ -113,9 +113,14 @@
 
 - [ ] Learn HTML Language (Hyper Text Markup Language)
 
+
 - [ ] Learn CSS Language (Cascading Style Sheets)
 
+
 - [ ] Learn Markdown Language (Lightweight Markup Language)
+
+
+- [ ] Learn Mermaid Language (Diagram and Flowchart Generation Tool)
 
 ---
 
@@ -164,6 +169,9 @@
 ---
 
 - [ ] Learn Programming Specialization (for (Web, Native Mobile, Native Desktop, Cross-Platform, .....etc))
+    - [ ] Learning
+
+    - [ ] Projects
 
 ---
 
