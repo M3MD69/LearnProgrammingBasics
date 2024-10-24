@@ -128,7 +128,7 @@
 
 ---
 
-- [ ] Learn Programming Basics (with Strong Programming Language (C++, Java, C) for Learn Programming Basics)
+- [ ] Learn Programming Basics (with Strong Programming Language (C++ || Java || C) for Learn Programming Basics)
     - [ ] Learning
         - [ ] Basics
         - [ ] Testing
@@ -145,24 +145,42 @@
         - [ ] Best Practices
 
     - [ ] Solving
-        - [ ] W3Schools (How to)
-        - [ ] W3Resource (Programming Language Exercise)
-        - [ ] Codeforces (Assiut Sheets)
-        - [ ] CoderHub (Challenges and Competitions)
-        - [ ] Satr (Mini Projects from Programming Language Courses)
-        - [ ] LeetCode (Top Interview 150)
-        - [ ] HackerRank (SQL and Database)
+        * [ ] W3Schools
+            * [ ] How to
 
-        - Solve 1 Problem Daily
-            - Codeforces (Problems)
-            - LeetCode (Problems)
-            - HackerRank (Programming Language, Mathematics, Regex, Algorithms, Data Structures)
-            - CodeWars (Practice)
+        * [ ] W3Resource
+            * [ ] Programming Language Exercise
 
-        - Check Daily for More Problems
-            - W3Schools (How to)
-            - CoderHub (Challenges and Competitions)
-            - Satr (Mini Projects from Programming Language Courses)
+        - [ ] Codeforces
+            * [ ] Assiut Sheets
+
+            - [ ] Problems
+
+        * [ ] CoderHub
+            * [ ] Challenges
+            * [ ] Competitions
+
+        * [ ] Satr
+            * [ ] Mini Projects from Courses
+
+        - [ ] LeetCode
+            * [ ] Top Interview 1500
+
+            - [ ] SQL 50
+            - [ ] LeetCode 75
+            - [ ] Top 100 Liked
+            - [ ] Problems
+
+        - [ ] HackerRank
+            - [ ] Programming Language
+            - [ ] Mathematics
+            - [ ] Regex
+            - [ ] Algorithms
+            - [ ] Data Structures
+            - [ ] SQL
+            - [ ] Database
+        - [ ] CodeWars
+            - [ ] Practice
 
     - [ ] Projects
 
@@ -176,3 +194,19 @@
 ---
 
 - [ ] Create Your Own Projects
+
+---
+
+## Projects Folders You Must Have
+
+- **Projects**
+    1. **Learn**
+        1. LearnProgrammingBasics
+        2. LearnHTML
+        3. LearnCSS
+        4. LearnMarkdown
+        5. LearnMermaid
+        6. LearnGitAndGithub
+        7. Learn(C++ || Java || C)
+        8. Learn(Your Programming Specialization)
+    2. **My**
