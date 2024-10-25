@@ -126,6 +126,8 @@
 
 - [ ] Learn Git and GitHub (Version Control System)
 
+---
+
 - [ ] Learn SQL (Structured Query Language)
 
 ---
