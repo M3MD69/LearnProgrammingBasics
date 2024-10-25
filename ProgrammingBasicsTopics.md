@@ -126,6 +126,8 @@
 
 - [ ] Learn Git and GitHub (Version Control System)
 
+- [ ] Learn SQL (Structured Query Language)
+
 ---
 
 - [ ] Learn Programming Basics (with Strong Programming Language (C++ || Java || C) for Learn Programming Basics)
@@ -208,5 +210,6 @@
         5. LearnMermaid
         6. LearnGitAndGithub
         7. Learn(C++ || Java || C)
-        8. Learn(Your Programming Specialization)
+        8. LearnSQL
+        9. Learn(Your Programming Specialization)
     2. **My**
