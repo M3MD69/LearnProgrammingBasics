@@ -120,13 +120,11 @@
 - [ ] Learn Markdown Language (Lightweight Markup Language)
 
 
-- [ ] Learn Mermaid Language (Diagram and Flowchart Generation Tool)
-
----
-
 - [ ] Learn Git and GitHub (Version Control System)
 
----
+
+- [ ] Learn Mermaid Language (Diagram and Flowchart Generation Tool)
+
 
 - [ ] Learn SQL (Structured Query Language)
 
