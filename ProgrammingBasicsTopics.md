@@ -126,6 +126,9 @@
 - [ ] Learn Mermaid Language (Diagram and Flowchart Generation Tool)
 
 
+- [ ] Learn JSON (JavaScript Object Notation)
+
+
 - [ ] Learn SQL (Structured Query Language)
 
 ---
