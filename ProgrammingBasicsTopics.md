@@ -115,7 +115,7 @@
 ---
 
 - [ ] Learn Programming Basics (with Strong Programming Language (C++ || Java || C || C# || Python || Kotlin || .....etc) for Learn Programming Basics)
-    - [ ] [<span style="color: #e76f00">Java</span>](https://github.com/M3MD69/LearnJava)
+    - [ ] [<span style="color: #e76f00">Learn Java</span>](https://github.com/M3MD69/LearnJava)
 
 ---
 
